@@ -36,7 +36,7 @@ body{
    transition-duration: 2s;
    transition-timing-function: ease;
 }
-/*ex 2 2 */
+/*ex 2 2   */
 .d2-1:hover{
     transform: translate(300px , 300px) rotate(35deg);
     /*ex 2 3 */
